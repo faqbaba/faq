@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:aqua;
+    font-family: Arial, Helvetica, sans-serifs;
+    
+}
+
+div{
+background-color: white;
+margin: auto;
+padding: 80px;
+width: 500px;
+height: 500px;
+text-align: center;
+}
+input{
+    width: 350px;
+    border-radius: 30px;
+}
+button{
+    border-radius: 40px;
+    width:350px ;
+}
+.b1{
+    background-color: blue;
+    color: white;
+}
+.b2{
+    background-color: white;
+    color: blue;
+}
+.h{
+color: blue;
+}
